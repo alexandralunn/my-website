@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
+body {
+	/*add in your gif here*/
+	background-image:url(../images/tumblr2.gif);
+	/*this code centers and fixes your gif to the background, treat gifs like any
+	other image*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	line-height: 1.4;
+	color: blue;
+	cursor: url(../images/w2.png),auto;
+
+
+}
+
+a.see_also_link, a.see_also_link:visited, a.see_also_link:active, a.see_also_link:hover {
+    color: #000000;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #000000;
+}
+a.see_also_link:hover {
+    color: #ffff00;
+    border-color: #ffff00;
+}
+a.see_also_link:active {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+h1 {
+	font-size: 21px;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 40px;
+}
+
+nav a:visited {
+	color: blue;
+}
+
+nav a:hover {
+
+	text-decoration: underline;
+}
+
+nav a:visited {
+	color: blue;
+}
+
+img {
+	width: 400px;
+}
+
+#lightbox {
+	position: fixed;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	background: rgba(255,255,255, 0.75);
+	width: 100%;
+	height: 100%;
+	/*this will hide our lightbox
+	until we add it back in
+	using js*/
+	display:none;
+}
+
+#lightbox img {
+	width: 60%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
