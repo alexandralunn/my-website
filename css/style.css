@@ -12,7 +12,7 @@ body {
 	font-size: 16px;
 	line-height: 1.4;
 	color: blue;
-	cursor: url(../images/w2.png),auto;
+	cursor: url(../images/poo.gif),auto;
 
 }
 
@@ -21,6 +21,7 @@ a.see_also_link, a.see_also_link:visited, a.see_also_link:active, a.see_also_lin
     text-decoration: none;
     padding-bottom: 1px;
     border-bottom: 2px solid #000000;
+    cursor: url(../images/22.gif.png),auto;
 }
 a.see_also_link:hover {
     color: #ffff00;
