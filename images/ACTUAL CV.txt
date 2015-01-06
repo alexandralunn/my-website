@@ -1,0 +1,16 @@
+<ASCII-MAC>
+<Version:10.1><FeatureSet:InDesign-Roman><ColorTable:=<Black:COLOR:CMYK:Process:0,0,0,1>>
+<DefineParaStyle:NormalParagraphStyle=<Nextstyle:NormalParagraphStyle>>
+<ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cSize:10.000000><cLeading:12.000000><cFont:Helvetica>
+<cTypeface:><cSize:><cLeading:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cSize:10.000000><cLeading:12.000000><cFont:Helvetica>January 2012 - January 2013<cTypeface:><cSize:><cLeading:><cFont:><cTypeface:Bold Oblique><cFont:Helvetica> 
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cFont:Helvetica>Independent Graphics Studio
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Light><cLeading:16.000000><cFont:Helvetica>Here I directed and produced music videos for the record label Traum. This role included strategic thinking from concept design right through to execution of the high quality music videos again for international clients.  
+<cTypeface:><cLeading:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Light><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cSize:10.000000><cFont:Helvetica>2007 -2014<cTypeface:><cSize:><cFont:><cTypeface:Bold Oblique><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Bold Oblique><cFont:Helvetica>English Governess
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Light><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:><ParaStyle:NormalParagraphStyle><pHyphenation:0><cTypeface:Light><cLeading:15.000000><cFont:Helvetica>Before and during my studies I taught English as a foreign language to clients across Europe. From children of preschool age through right through to teaching adults written and spoken business English, they all enjoyed learning with me!<cTypeface:><cLeading:><cFont:><cTypeface:Light><cFont:Helvetica>
+<cTypeface:><cFont:><pHyphenation:>
