@@ -48,11 +48,6 @@ html, body {
 
 }
 
-header{
-	background-image: url(../images/COL_1.PNG);
-}
-
-
 h1 {
 	font-size: 21px;
 }
@@ -94,10 +89,10 @@ img {
 }
 
 #lightbox img {
-	width: 60%;
+	width: 100%;
 	position: absolute;
-	top: 50%;
-	left: 50%;
+	top: 100%;
+	left: 100%;
 	transform: translate(-50%, -50%);
 
 }
