@@ -12,18 +12,18 @@ body {
 	font-size: 16px;
 	line-height: 1.4;
 	color: blue;
-	cursor: url(../images/25.gif),auto;
+	cursor: url(../images/25s.gif),auto;
 
 	background gif: Rabbits.gif 
 
 }
 
 a.see_also_link, a.see_also_link:visited, a.see_also_link:active, a.see_also_link:hover {
-    color: #000000;
+    color: #d004fc;
     text-decoration: none;
-    padding-bottom: 1px;
+    padding-bottom: 2px;
     border-bottom: 2px solid #000000;
-    cursor: url(../images/22.gif.png),auto;
+    cursor: url(../images/8.gif),auto;
 }
 a.see_also_link:hover {
     color: #ffff00;
