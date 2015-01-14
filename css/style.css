@@ -89,10 +89,10 @@ img {
 }
 
 #lightbox img {
-	width: 50%;
+	width: 100%;
 	position: absolute;
-	top: 80%;
-	left: 80%;
+	top: 100%;
+	left: 100%;
 	transform: translate(-50%, -50%);
 
 }
