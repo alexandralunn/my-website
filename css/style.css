@@ -49,16 +49,16 @@ html, body {
 }
 
 h1 {
-	font-size: 21px;
+	font-size: 40px;
 }
 
 nav a {
 	text-decoration: none;
-	padding: 20px; 00px; 40px
+	padding: 20px; 
 }
 
 nav a:visited {
-	color: blue;
+	color: black;
 }
 
 nav a:hover {
