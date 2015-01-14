@@ -79,7 +79,7 @@ img {
 	z-index: 100;
 	top: 0;
 	left: 0;
-	background: #d004fc;
+	background: #ffffff;
 	width: 50%;
 	height: 50%;
 	/*this will hide our lightbox
@@ -91,8 +91,8 @@ img {
 #lightbox img {
 	width: 50%;
 	position: absolute;
-	top: 50%;
-	left: 50%;
+	top: 80%;
+	left: 80%;
 	transform: translate(-50%, -50%);
 
 }
