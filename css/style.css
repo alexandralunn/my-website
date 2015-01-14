@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/tumblr2.gif);
+	background-image:url(../images/COLOUR.mp4);
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
@@ -13,6 +13,8 @@ body {
 	line-height: 1.4;
 	color: blue;
 	cursor: url(../images/3.png),auto;
+
+	the background gif: 
 
 }
 
