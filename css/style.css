@@ -35,7 +35,7 @@ a.see_also_link:active {
 .full{
 	height:50%;
 	width: 150%;
-	background-position:center center;
+	background-position:left center;
 	background-size:cover;
 	/*fixes bkgrnd*/
 	background-attachment: fixed;
@@ -44,7 +44,7 @@ a.see_also_link:active {
 }
 
 html, body {
-	height: 100%;
+	height: 200%;
 
 }
 
