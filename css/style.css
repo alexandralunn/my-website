@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/Rabbits.gif);
+	background-image:url(../images/rick.gif);
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
