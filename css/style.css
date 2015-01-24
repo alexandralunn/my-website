@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/    .gif);
+	background-image:url(../images/color.gif);
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
@@ -13,7 +13,7 @@ body {
 	line-height: 1.4;
 	color: blue;
 	cursor: url(../images/22.gif),auto;
-	background gif: 
+	background gif color.gif: 
 
 }
 
@@ -85,30 +85,9 @@ img {
 	height: 70%;
 	
 	display:none;
-}
-
-#lightbox {
-	position: fixed;
-	z-index: 100;
-	top: 0;
-	left: 0;
-	background: rgba(255,255,255, 0.75);
-	width: 100%;
-	height: 100%;
-	
-	display:none;
-}
-
-#lightbox img {
-	width: 60%;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 
 }
 
-/*nothing*/
 
 #lightbox img {
 	width: 100%;
@@ -119,7 +98,6 @@ img {
 
 }
 
-/*nothing*/
 
 .video {
     position: absolute;
