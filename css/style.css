@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:#ffcc00
+	background-image:url(../images/sea.gif)
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
@@ -12,8 +12,8 @@ body {
 	font-size: 16px;
 	line-height: 1.4;
 	color: black;
-	cursor: url(../images/22.gif),auto;
-	background: #ffcc00; 
+	cursor: url(../images/pink_yella.png),auto;
+	background gif: sea.gif  
 
 }
 
@@ -83,11 +83,9 @@ img {
 	background:transparent;
 	width: 70%;
 	height: 70%;
-	
 	display:none;
 
 }
-
 
 #lightbox img {
 	width: 100%;
@@ -95,9 +93,7 @@ img {
 	top: 200%;
 	left: 200%;
 	transform: translate(-50%, -50%);
-
 }
-
 
 .video {
     position: absolute;
