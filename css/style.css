@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/sea.gif)
+	background-image:url(../images/sea_2.gif)
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
@@ -12,8 +12,8 @@ body {
 	font-size: 16px;
 	line-height: 1.4;
 	color: black;
-	cursor: url(../images/pink_yella.png),auto;
-	background gif: sea.gif  
+	cursor: url(../images/pink.png),auto;
+	background gif: sea_2.gif  
 
 }
 
