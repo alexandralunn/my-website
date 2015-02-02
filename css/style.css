@@ -9,6 +9,10 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+
+	li a {
+color: yellow;
+}
 	/*hiding this for now*/
 
 
@@ -38,7 +42,7 @@ body {
 	line-height: 1.4;
 	color: black;
 	cursor: url(../images/cursor.gif),auto;
-	background gif: sea_2.gif  
+	background gif:
 
 }
 
@@ -75,13 +79,14 @@ html, body {
 }
 
 h1 {
-	font-size: 20px;
+	font-size: 40px;
 }
 
 nav a {
 	text-decoration: none;
 	padding: 10px; 
 }
+
 
 nav a:visited {
 	color: black;
@@ -90,10 +95,11 @@ nav a:visited {
 nav a:hover {
 
 	text-decoration: blink;
+	text-decoration-color: red;
 }
 
 nav a:visited {
-	color: blue;
+	color: black;
 }
 
 img {
