@@ -9,12 +9,11 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-
-	li a {
-color: yellow;
-}
 	/*hiding this for now*/
 
+li a {
+color: yellow;
+}
 
 	background: url('../images/C_016.png') no-repeat fixed;
 	-webkit-background-size: cover;
