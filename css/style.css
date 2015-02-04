@@ -3,19 +3,16 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../url(../images/C_016.png') no-repeat fixed;
+	background-image:url(../images/sea_2.gif)
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	/*hiding this for now*/
+	cursor:url(../images/cursor.gif);
 
-li a {
-color: yellow;
-}
 
-	background:url(../images/C_016.png') no-repeat fixed;
+	background: url('../images/C_016.png') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
