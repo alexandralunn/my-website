@@ -18,7 +18,7 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/open-overlay.png', sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/C_016.png', sizingMethod='scale')";
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/C_006.png', sizingMethod='scale')";
 	height: 100%;
 	width: 100%;
 	position: absolute; 
@@ -37,7 +37,7 @@ body {
 	font-size: 16px;
 	line-height: 1.4;
 	color: black;
-	cursor: url(../images/cursor.gif),auto;
+	cursor: url(../images/CSR.gif),auto;
 	background gif:
 
 }
