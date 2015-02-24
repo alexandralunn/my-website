@@ -12,7 +12,7 @@ body {
 	cursor:url(../images/CSR.gif);
 
 
-	background: url('../images/C_016.png') no-repeat fixed;
+	background: url('../images/C_006.png') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,7 +47,7 @@ a.see_also_link, a.see_also_link:visited, a.see_also_link:active, a.see_also_lin
     text-decoration: none;
     padding-bottom: 2px;
     border-bottom: 2px solid #000000;
-    cursor: url(../images/15.gif),auto;
+    cursor: url(../images/CSR.gif),auto;
 }
 a.see_also_link:hover {
     color: #ffff00;
