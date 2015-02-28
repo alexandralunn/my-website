@@ -103,7 +103,6 @@ nav a {
     cursor: url(../images/CSR.gif),auto;
     padding: 20px; 20px; 20px;
 
-
 }
 
 
@@ -117,12 +116,12 @@ nav a:visited {
 
 nav a:hover {
 
-		color: yellow;
-		border-color: #ffff00;
-		text-decoration: none;
-    	/*padding-bottom: 4px;*/
-    	/*border-bottom: 4px solid #000000;*/
-    	cursor: url(../images/CSR.gif),auto;
+	     color: yellow;
+	     outline-color: black;
+    text-decoration: none;
+    /*padding-bottom: 4px;*/
+    /*border-bottom: 4px solid #000000;*/
+    cursor: url(../images/CSR.gif),auto;
 }
 
 img {
