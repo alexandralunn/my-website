@@ -96,16 +96,18 @@ h1 {
 }
 
 nav a {
-	    color: #d004fc;
+	    color: yellow;
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
     cursor: url(../images/CSR.gif),auto;
+    padding: 20px; 20px; 20px;
+
 }
 
 
 nav a:visited {
-	    color: #d004fc;
+	     color: yellow;
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
@@ -114,7 +116,7 @@ nav a:visited {
 
 nav a:hover {
 
-	    color: #d004fc;
+	     color: yellow;
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
