@@ -124,9 +124,9 @@ nav a:hover {
     cursor: url(../images/CSR.gif),auto;
 }
 
-nava:active {
-    color: #ffffff;
-    border-color: #ffffff;
+nav a:active {
+    color: black;
+    border-color: black;
 }
 
 img {
