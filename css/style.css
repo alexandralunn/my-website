@@ -102,7 +102,7 @@ nav a {
     /*border-bottom: 4px solid #000000;*/
     cursor: url(../images/CSR.gif),auto;
     padding: 20px; 20px; 20px;
-    font-size: 40px;
+    font-size: 25px;
 
 }
 
@@ -112,7 +112,7 @@ nav a:visited {
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
-    font-size: 40px;
+    font-size: 25px;
     padding: 20px; 20px; 20px;
     cursor: url(../images/CSR.gif),auto;
 }
@@ -123,7 +123,7 @@ nav a:hover {
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
-    font-size: 40px;
+    font-size: 25px;
     padding-top: 20px;
     cursor: url(../images/CSR.gif),auto;
 }
