@@ -42,7 +42,7 @@ body {
 
 }
 
-a.see_also_link, a.see_also_link:visited, a.see_also_link:active, a.see_also_link:hover {
+a.see_also_link, a.see_also_link:visited {
     color: #d004fc;
     text-decoration: none;
     padding-bottom: 2px;
