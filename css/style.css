@@ -100,8 +100,9 @@ nav a {
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
-    cursor: url(../images/CSR.gif),auto;
-    padding: 20px; 20px; 20px;
+  	cursor: url(../images/1.gif),auto;
+	padding: 20px; 20px; 20px;
+    background-color: blue;
     font-size: 25px;
 
 }
@@ -114,7 +115,8 @@ nav a:visited {
     /*border-bottom: 4px solid #000000;*/
     font-size: 25px;
     padding: 20px; 20px; 20px;
-    cursor: url(../images/CSR.gif),auto;
+    background-color: blue;
+    cursor: url(../images/1.gif),auto;
 }
 
 nav a:hover {
@@ -127,7 +129,9 @@ nav a:hover {
     /*border-bottom: 4px solid #000000;*/
     font-size: 25px;
     padding-top: 20px;
-    cursor: url(../images/CSR.gif),auto;
+    background-color: blue;
+    cursor: url(../images/1.gif),auto;
+
 }
 
 img {
