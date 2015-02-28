@@ -58,6 +58,23 @@ a.see_also_link:active {
     border-color: #ffffff;
 }
 
+
+a.things, a.things:visited {
+    color: #d004fc;
+    text-decoration: none;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #000000;
+    cursor: url(../images/CSR.gif),auto;
+}
+a.things:hover {
+    color: #ffff00;
+    border-color: #ffff00;
+}
+a.things:active {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
 .full{
 	height:50%;
 	width: 150%;
