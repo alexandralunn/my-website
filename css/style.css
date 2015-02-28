@@ -100,10 +100,10 @@ nav a {
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
-  	cursor: url(../images/1.gif),auto;
-	padding: 20px; 
+	
     background-color: blue;
-    font-size: 25px;
+    font-size: 20px;
+     padding-bottom: 4px;
 
 }
 
@@ -113,10 +113,11 @@ nav a:visited {
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
-    font-size: 25px;
-    padding: 20px; 
+    font-size: 20px;
+ 
     background-color: blue;
-    cursor: url(../images/1.gif),auto;
+     padding-bottom: 4px;
+  
 }
 
 nav a:hover {
@@ -125,12 +126,12 @@ nav a:hover {
 	     color: red;
 
     text-decoration: none;
-    /*padding-bottom: 4px;*/
+    padding-bottom: 4px;
     /*border-bottom: 4px solid #000000;*/
-    font-size: 25px;
-    padding-top: 20px;
+    font-size: 20px;
+
     background-color: blue;
-    cursor: url(../images/1.gif),auto;
+
 
 }
 
