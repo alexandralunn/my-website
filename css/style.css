@@ -24,7 +24,7 @@ body {
 	position: absolute; 
 	top: 0;
 	left: 0;
-	cursor: pointer !important;
+	/*cursor: pointer !important;*/
 	z-index: 9999;
 
 	font-family: Helvetica;
