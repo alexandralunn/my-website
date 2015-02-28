@@ -96,23 +96,29 @@ h1 {
 }
 
 nav a {
-	text-decoration: none;
-	padding: 10px; 
+	    color: #d004fc;
+    text-decoration: none;
+    /*padding-bottom: 4px;*/
+    /*border-bottom: 4px solid #000000;*/
+    cursor: url(../images/CSR.gif),auto;
 }
 
 
 nav a:visited {
-	color: black;
+	    color: #d004fc;
+    text-decoration: none;
+    /*padding-bottom: 4px;*/
+    /*border-bottom: 4px solid #000000;*/
+    cursor: url(../images/CSR.gif),auto;
 }
 
 nav a:hover {
 
-	text-decoration: blink;
-	text-decoration-color: red;
-}
-
-nav a:visited {
-	color: black;
+	    color: #d004fc;
+    text-decoration: none;
+    /*padding-bottom: 4px;*/
+    /*border-bottom: 4px solid #000000;*/
+    cursor: url(../images/CSR.gif),auto;
 }
 
 img {
