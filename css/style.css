@@ -92,16 +92,17 @@ html, body {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 30px;
 }
 
 nav a {
 	    color: yellow;
     text-decoration: none;
+    background: red; 
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
     cursor: url(../images/CSR.gif),auto;
-    font-size: 40px;
+    font-size: 30px;
     padding: 20px; 20px; 20px;
 
 }
@@ -109,27 +110,32 @@ nav a {
 
 nav a:visited {
 	     color: yellow;
+	     background: red; 
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
     cursor: url(../images/CSR.gif),auto;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 nav a:hover {
 
 	     color: yellow;
+	     background: red; 
 
     text-decoration: none;
     /*padding-bottom: 4px;*/
     /*border-bottom: 4px solid #000000;*/
     cursor: url(../images/CSR.gif),auto;
-    font-size: 40px;
+    font-size: 30px;
+
+}
 }
 
 nav a:active {
     color: black;
     border-color: black;
+    background: red; 
 }
 
 img {
