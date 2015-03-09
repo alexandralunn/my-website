@@ -12,13 +12,13 @@ body {
 	cursor:url(../images/CSR.gif);
 
 
-	background: url('../images/BKGRND.png') no-repeat fixed;
+	background: url('../images/C_012.jpg') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/open-overlay.png', sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/BKGRND.png', sizingMethod='scale')";
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/C_012.jpg', sizingMethod='scale')";
 	height: 100%;
 	width: 100%;
 	position: absolute; 
