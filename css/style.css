@@ -12,13 +12,13 @@ body {
 	cursor:url(../images/CSR.gif);
 
 
-	background: url('../images/Bab.png') no-repeat fixed;
+	background: url('../images/yap.png') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/open-overlay.png', sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/Bab.png', sizingMethod='scale')";
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/yap.png', sizingMethod='scale')";
 	height: 100%;
 	width: 100%;
 	position: absolute; 
