@@ -177,16 +177,16 @@ img {
     position: absolute;
     left: 0;
     top: 0;
-    width: 75%;
-    height: 75%;
+    width: 65%;
+    height: 50%;
     
 }
 
 .video iframe {
     position: absolute;
     z-index: 0;
-    width: 75%;
-    height: 75%;
+    width: 65%;
+    height: 50%;
 }
 
 .video .overlay {
@@ -194,7 +194,7 @@ img {
     z-index: 2;
     left: 0;
     top: 0;
-    width: 75%;
-    height: 75%; 
+    width: 65%;
+    height: 50%; 
     background: url(<iframe width="...." height="..." src="..." frameborder="0" allowfullscreen></iframe>) repeat;
 }
