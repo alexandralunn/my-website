@@ -12,7 +12,7 @@ body {
   	margin: 23px;
   	border: 3px solid #ffffff;
 }
-	cursor:url(../images/CSR.gif);
+	{cursor:url(../images/CSR.gif);
 
 
 	background: url('../images/yap.png') no-repeat fixed;
@@ -29,6 +29,7 @@ body {
 	left: 0;
 	/*cursor: pointer !important;*/
 	z-index: 9999;
+	}
 
 	font-family: Helvetica;
 	font-family:"Hel", Helvetica, Arial, 
@@ -36,15 +37,15 @@ body {
 	color:#000; margin:0; 
 	background:; -webkit-text-size-adjust: 100%; }
 	h1, h2 { font-weight:normal; text-transform:uppercase; padding:0; margin:0; font-size:19px; }
-	a { color:#231F20; text-decoration:underline; }
+	a { color:#231F20; text-decoration:underline; 
 	font-size: 16px;
 	line-height: 1.4;
 	color: black;
 	cursor: url(../images/CSR.gif),auto;
 	background gif:
-	.jumbotron h1 {
   	margin: 14px;
   	border: 3px solid #ffffff;
+}
 }
 
 }
@@ -52,7 +53,6 @@ body {
 a.see_also_link, a.see_also_link:visited {
     color: #d004fc;
     text-decoration: none;
-    .jumbotron h1 {
   	margin: 14px;
  	border: 3px solid #ffffff;
 	padding-bottom: 20px 20px ;
