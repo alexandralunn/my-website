@@ -28,6 +28,8 @@ body {
 	/*cursor: pointer !important;*/
 	z-index: 9999;
 	margin: 14px;
+	margin-top: 10px;
+ 	margin-left: 23px;
 
 	font-family: Helvetica;
 	font-family:"Hel", Helvetica, Arial, 
