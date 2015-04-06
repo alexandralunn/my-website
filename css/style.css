@@ -185,8 +185,8 @@ img {
 .video iframe {
     position: absolute;
     z-index: 0;
-    width: 25%;
-    height: 25%;
+    width: 75%;
+    height: 75%;
 }
 
 .video .overlay {
@@ -194,7 +194,7 @@ img {
     z-index: 2;
     left: 0;
     top: 0;
-    width: 25%;
-    height: 25%; /* you were also missing a semi-colon here, which was breaking this and the background rule */
+    width: 75%;
+    height: 75%; 
     background: url(<iframe width="...." height="..." src="..." frameborder="0" allowfullscreen></iframe>) repeat;
 }
