@@ -177,16 +177,16 @@ img {
     position: absolute;
     left: 0;
     top: 0;
-    width: 100%;
-    height: 100%;
+    width: 25%;
+    height: 25%;
     
 }
 
 .video iframe {
     position: absolute;
     z-index: 0;
-    width: 100%;
-    height: 100%;
+    width: 25%;
+    height: 25%;
 }
 
 .video .overlay {
@@ -194,7 +194,7 @@ img {
     z-index: 2;
     left: 0;
     top: 0;
-    width: 100%;
-    height: 100%; /* you were also missing a semi-colon here, which was breaking this and the background rule */
-    background: url(<iframe width="1280" height="720" src="//www.youtube.com/embed/wEhMsAXu5Rw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>) repeat;
+    width: 25%;
+    height: 25%; /* you were also missing a semi-colon here, which was breaking this and the background rule */
+    background: url(<iframe width="...." height="..." src="..." frameborder="0" allowfullscreen></iframe>) repeat;
 }
