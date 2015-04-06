@@ -9,6 +9,9 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+  	margin: 23px;
+  	border: 3px solid #ffffff;
+}
 	cursor:url(../images/CSR.gif);
 
 
@@ -39,15 +42,23 @@ body {
 	color: black;
 	cursor: url(../images/CSR.gif),auto;
 	background gif:
+	.jumbotron h1 {
+  	margin: 14px;
+  	border: 3px solid #ffffff;
+}
 
 }
 
 a.see_also_link, a.see_also_link:visited {
     color: #d004fc;
     text-decoration: none;
-    padding-bottom: 2px;
+    .jumbotron h1 {
+  	margin: 14px;
+ 	border: 3px solid #ffffff;
+	padding-bottom: 20px 20px ;
     border-bottom: 2px solid #000000;
     cursor: url(../images/CSR.gif),auto;
+}
 }
 a.see_also_link:hover {
     color: #ffff00;
