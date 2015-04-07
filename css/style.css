@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/sea_2.gif)
+	background-image:url(../images/yap.png)
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
@@ -15,7 +15,7 @@ body {
 			}
 
 
-
+{
 	background: url('../images/yap.png') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
