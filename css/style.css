@@ -52,7 +52,7 @@ body {
 }
 
 a.see_also_link, a.see_also_link:visited {
-    color: #d004fc;
+    color: red;
     text-decoration: none;
     padding-bottom: 2px;
     border-bottom: 2px solid #000000;
