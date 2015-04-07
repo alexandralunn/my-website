@@ -108,7 +108,8 @@ h1 {
 
 nav a {
 
-	things:hover;
+	things: 
+	hover: red;
     color: #ffff00;
 	color: yellow;
     text-decoration: none;
@@ -117,6 +118,7 @@ nav a {
     cursor: url(../images/CSR.gif),auto;
     font-size: 30px;
     padding: 20px; 20px; 20px;
+    font-family:Helvetica;
 
 }
 
