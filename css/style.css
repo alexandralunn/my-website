@@ -57,7 +57,7 @@ a.see_also_link, a.see_also_link:visited {
     padding-bottom: 2px;
     border-bottom: 2px solid #000000;
     cursor: url(../images/CSR.gif),auto;
-    margin: 14px;
+    margin: 50px;
     background:url('../images/yap.png') no-repeat fixed;
 }
 a.see_also_link:hover {
