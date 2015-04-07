@@ -3,13 +3,14 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400);
 body {
 	/*add in your gif here*/
-	background-image:url(../images/yap.png)
+	background-image:url('../images/yap.png')
 	/*this code centers and fixes your gif to the background, treat gifs like any
 	other image*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	cursor:url(../images/CSR.gif);
+	background:url('../images/yap.png') no-repeat fixed;
 	margin: 14px;
 
 			}
@@ -31,7 +32,6 @@ body {
 	margin: 14px;
 	margin-top: 10px;
  	margin-left: 23px;
-
 	font-family: Helvetica;
 	font-family:"Hel", Helvetica, Arial, 
 	sans-serif; font-size:13px; margin-right: auto; margin-left: auto
@@ -40,7 +40,7 @@ body {
 
 	h1, h2 {font-weight:normal; text-transform:uppercase; padding:20px;10px;10px;10px; margin:20px; font-size:19px; }
 	a 
-	{ color:#231F20; text-decoration:underline; 
+	{ color:#231F20; text-decoration:none; 
 	font-size: 16px;
 	line-height: 2.4;
 	color: black;
@@ -143,6 +143,12 @@ nav a:hover {
     cursor: url(../images/CSR.gif),auto;
     font-size: 30px;
 
+}
+
+p {
+
+	things: hover;
+	color: yellow;
 }
 }
 
