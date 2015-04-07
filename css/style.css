@@ -149,6 +149,13 @@ p {
 
 	things: hover;
 	color: yellow;
+font-family: Courier;
+}
+
+span {
+background-color: yellow;
+
+}
 }
 }
 
