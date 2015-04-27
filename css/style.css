@@ -16,6 +16,7 @@ body {
 			}
 
 
+
 {
 	background: url('../images/GRID.jpg') no-repeat fixed;
 	-webkit-background-size: cover;
@@ -38,7 +39,9 @@ body {
 	color:#000; margin:0px; margin-top: 10px; margin-left: 23px; 
 	background:url('../images/GRID.jpg') no-repeat fixed;
 
-	h1, h2 {font-weight:normal; text-transform:uppercase; padding:20px;10px;10px;10px; margin:20px; font-size:19px; }
+	h1, h2 {font-weight:normal; text-transform:uppercase; padding:20px;10px;10px;10px; margin:20px; font-size:19px; background-color: turquiose;  
+	color: yellow;
+	font-size: 12px; ;}
 	a 
 	{ color:#231F20; text-decoration:none; 
 	font-size: 16px;
