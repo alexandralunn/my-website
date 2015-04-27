@@ -12,6 +12,12 @@ body {
 	cursor:url(../images/CSR.gif);
 	background:url('../images/GRID.jpg') no-repeat fixed;
 	margin: 14px;
+	nav a {
+	hover {
+    color: #ffff00;
+    border-color: #red;
+}
+}
 
 			}
 
@@ -39,8 +45,8 @@ body {
 	color:#000; margin:0px; margin-top: 10px; margin-left: 23px; 
 	background:url('../images/GRID.jpg') no-repeat fixed;
 
-	h1, h2 {font-weight:normal; text-transform:uppercase; padding:20px;10px;10px;10px; margin:20px; font-size:19px; background-color: turquiose;  
-	color: yellow;
+	h1, h2 {font-weight:normal; text-transform:uppercase; padding:20px;10px;10px;10px; margin:20px; font-size:19px; 
+	color: yellow; 
 	font-size: 12px; ;}
 	a 
 	{ color:#231F20; text-decoration:none; 
@@ -51,6 +57,13 @@ body {
 	background gif:
 	sans-serif; margin-right: auto; margin-left: auto;
 	ackground:url('../images/GRID.jpg') no-repeat fixed;
+	nav a {
+	hover {
+    color: #ffff00;
+    border-color: #red;
+}
+}
+
 }
 }
 
@@ -70,6 +83,14 @@ a.see_also_link:hover {
 a.see_also_link:active {
     color: #ffffff;
     border-color: #ffffff;
+}
+
+nav a {
+
+	hover {
+    color: #ffff00;
+    border-color: #red;
+}
 }
 
 
