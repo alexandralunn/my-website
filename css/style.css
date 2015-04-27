@@ -12,15 +12,15 @@ body {
 	cursor:url(../images/CSR.gif);
 	background:url('../images/GRID.jpg') no-repeat fixed;
 	margin: 14px;
-	nav a {
-	hover {
-    color: #ffff00;
-    border-color: #red;
-}
 }
 
 			}
 
+
+a.moving etc:hover {
+    color: #ffff00;
+    border-color: #red;
+}
 
 
 {
@@ -67,6 +67,12 @@ body {
 }
 }
 
+a.moving etc:hover {
+    color: #ffff00;
+    border-color: #red;
+}
+
+
 a.see_also_link, a.see_also_link:visited {
     color: red;
     text-decoration: none;
@@ -85,14 +91,10 @@ a.see_also_link:active {
     border-color: #ffffff;
 }
 
-nav a {
-
-	hover {
+a.moving etc:hover {
     color: #ffff00;
     border-color: #red;
 }
-}
-
 
 a.things, a.things:visited {
     color: #d004fc;
@@ -229,6 +231,8 @@ img {
     height: 50%;
     padding-top: 200%;
 }
+
+/*/
 
 .video .overlay {
     position: absolute;
